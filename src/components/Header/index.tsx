@@ -3,7 +3,7 @@ import React from "react";
 import { Container } from "./styles";
 
 const Header: React.FC = () => {
-  return <Container>Interface reproduzida com a Rocketseat</Container>;
+  return <Container>CLONE DO MERCADO LIVRE --- ME CONTRATA :)</Container>;
 };
 
 export default Header;
